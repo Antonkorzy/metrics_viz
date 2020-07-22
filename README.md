@@ -7,3 +7,4 @@
 3. Агрегированные данные были загружены в Tableau и по ним построены дашборды: AQ_test_Korzukhin.twb
 
 Пример дашборда в файле: dash_example.png
+![alt text](https://github.com/Antonkorzy/metrics_viz/blob/master/dash_example.PNG)
